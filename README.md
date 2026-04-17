@@ -1,6 +1,6 @@
 # Tony Brownlee
 
-**IT Practice Manager | Strategic Delivery Leader | U.S. Marine Corps Veteran**
+IT Practice Manager | Strategic Delivery Leader | U.S. Marine Corps Veteran
 
 Results-driven IT services leader with 20+ years of progressive experience scaling delivery operations, building high-performance teams, and managing complex, multi-vertical technology programs. Currently overseeing a $60M project-based delivery practice at TEKsystems Global Services with deep specialization in healthcare IT, retail technology deployment, and enterprise networking. Known for building zero-bench, projectized delivery models that maximize resource utilization and margin — and for developing talent that sticks.
 
