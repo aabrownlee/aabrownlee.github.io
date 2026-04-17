@@ -46,6 +46,8 @@ With a wide breadth of life experience, Anthony has skills in the following area
 - Acted as technical sales support to highlight our capabilities and solution new opportunities
 - Responsible for $60M portfolio covering technology deployments, residential and commercial security installation, audio-visual break fix services and electronic medical record system implementations.
 
+---
+
 ### Practice Architect - Enterprise Operations
 **TEKsystems Global Services** | *March 2022 - April 2024* | Full-Time
 
