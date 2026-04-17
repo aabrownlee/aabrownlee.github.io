@@ -28,11 +28,11 @@ Healthcare IT Deployment · Managed Services Governance · P&L Ownership · Work
 
 Leads a projectized delivery practice operating a $60M portfolio spanning healthcare IT, retail technology, audio-visual services, and enterprise networking — with no bench model and full P&L accountability.
 
-- Manage and develop a team of 7 Technical SMEs, including performance management, career development, and workforce planning for an open 8th hire focused on large-scale deployments.
-- Serve as a technical sales resource to scope, price, and present complex delivery solutions to new and existing clients across healthcare, retail, and commercial verticals.
+- Manage and develop a team of 7 Technical SMEs, including performance management, career development, and workforce planning focused on large-scale deployments.
+- Serve as a technical sales resource to scope, price, and present complex delivery solutions to new and existing clients across healthcare, retail, and other verticals.
 - Oversee delivery of electronic medical record (EMR) implementations, large-scale device deployments, residential and commercial security installations, and AV break-fix programs.
 - Maintain and grow a managed services governance layer that differentiates the practice from commodity subcontract arrangements.
-- Partner with key enterprise clients including Kyndryl to expand delivery scope and ensure program continuity.
+- Partner with key enterprise clients to expand delivery scope and ensure program continuity.
 
 ---
 
