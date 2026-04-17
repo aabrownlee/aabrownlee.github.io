@@ -8,7 +8,7 @@ Results-driven IT services leader with 20+ years of progressive experience scali
 
 ## Contact Information
 
-- **Email:** brownleeanthony[at]gmail.com
+- **Email:** brownleeanthony@gmail.com
 - **Location:** Lee's Summit, MO USA
 - **LinkedIn:** [linkedin.com/in/anthonybrownlee](https://www.linkedin.com/in/anthonybrownlee/)
 - **GitHub:** [aabrownlee.github.io](https://aabrownlee.github.io/)
