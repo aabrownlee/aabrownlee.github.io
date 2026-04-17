@@ -1,134 +1,113 @@
-**Project Manager | Scuba Instructor**
+# Tony Brownlee
 
-A United States Marine Corps veteran, Anthony has over 20 years of IT experience ranging from help desk to his current position as an IT Infrastructure Project Manager.
+**IT Practice Manager | Strategic Delivery Leader | U.S. Marine Corps Veteran**
+
+Results-driven IT services leader with 20+ years of progressive experience scaling delivery operations, building high-performance teams, and managing complex, multi-vertical technology programs. Currently overseeing a $60M project-based delivery practice at TEKsystems Global Services with deep specialization in healthcare IT, retail technology deployment, and enterprise networking. Known for building zero-bench, projectized delivery models that maximize resource utilization and margin — and for developing talent that sticks.
 
 ---
 
 ## Contact Information
 
 - **Email:** brownleeanthony[at]gmail.com
-- **Phone:** +1 816-661-3045
-- **Location:** Lees Summit, MO USA
+- **Location:** Lee's Summit, MO USA
 - **LinkedIn:** [linkedin.com/in/anthonybrownlee](https://www.linkedin.com/in/anthonybrownlee/)
+- **GitHub:** [aabrownlee.github.io](https://aabrownlee.github.io/)
 
 ---
 
-## About
+## Core Competencies
 
-With a wide breadth of life experience, Anthony has skills in the following areas:
-
-**Military (1988-1992):** Martial Arts. Firearms. Vehicle Maintenance. Maintenance Management.
-
-**Police & Security (1993-1998):** Conflict resolution. Incident Documentation.
-
-**Help Desk (1998-Present):** Troubleshooting. Technical Documentation. Windows 2000. Windows XP. Windows 7. Windows 8. Microsoft Office. Google Apps.
-
-**Systems Administration (2002-Present):** Windows 2000. Windows Server 2003. CentOS. RedHat Linux. Microsoft Exchange. SMTP. TCP/IP. Cisco Firewalls. Routers. Wireless Networking.
-
-**Project Management (2009-Present):** Project Planning. Resource Management. Scheduling. Budgeting. Logistics.
-
-**SCUBA (2010-Present):** Dive Physics. Dive Physiology. Underwater Navigation. Search and Recovery. Dive planning. CPR. First Aid. Oxygen Provider. In-water rescue. Diver training.
-
-### Core Competencies
-
-- **Project Management:** Excellent
-- **Networking:** Excellent
-- **Leadership:** Excellent
+Healthcare IT Deployment · Managed Services Governance · P&L Ownership · Workforce Planning · Technical Pre-Sales · Cross-functional Stakeholder Management · Program Delivery · Team Development · Scrum / Agile · Enterprise Networking
 
 ---
 
 ## Experience
 
 ### Practice Manager
-**TEKsystems Global Services** | *April 2024 - Present* | Full-Time
+**TEKsystems Global Services** | *April 2024 – Present* | Full-Time
 
-- Lead a team of 7 Technical SME's including professional development and disciplinary issues.
-- Acted as technical sales support to highlight our capabilities and solution new opportunities
-- Responsible for $60M portfolio covering technology deployments, residential and commercial security installation, audio-visual break fix services and electronic medical record system implementations.
+Leads a projectized delivery practice operating a $60M portfolio spanning healthcare IT, retail technology, audio-visual services, and enterprise networking — with no bench model and full P&L accountability.
+
+- Manage and develop a team of 7 Technical SMEs, including performance management, career development, and workforce planning for an open 8th hire focused on large-scale deployments.
+- Serve as a technical sales resource to scope, price, and present complex delivery solutions to new and existing clients across healthcare, retail, and commercial verticals.
+- Oversee delivery of electronic medical record (EMR) implementations, large-scale device deployments, residential and commercial security installations, and AV break-fix programs.
+- Maintain and grow a managed services governance layer that differentiates the practice from commodity subcontract arrangements.
+- Partner with key enterprise clients including Kyndryl to expand delivery scope and ensure program continuity.
 
 ---
 
-### Practice Architect - Enterprise Operations
-**TEKsystems Global Services** | *March 2022 - April 2024* | Full-Time
+### Practice Architect – Enterprise Operations
+**TEKsystems Global Services** | *March 2022 – April 2024* | Full-Time
 
-- Assisted with scope creation and pricing of opportunities with new customers.
-- Supported a team of 60 Service Delivery Managers and their leadership with engagement startup, best practices, and transition of processes from new customers.
-- Acted as Scrum Master when starting projects that required large numbers of contractors or an accelerated timeline.
-- Engaged with client technical teams to complete knowledge and process transition.
+- Developed scope and pricing for new customer opportunities, translating technical requirements into competitive delivery proposals.
+- Supported a team of 60 Service Delivery Managers and their leadership through engagement startup, best practice adoption, and process transition from new clients.
+- Served as Scrum Master on high-complexity project launches requiring large contractor teams or accelerated timelines.
+- Embedded with client technical teams to facilitate knowledge transfer and process integration.
 
 ---
 
 ### Global Delivery Manager
-**TEKsystems Global Services** | *January 2019 - March 2022* | Full-Time
+**TEKsystems Global Services** | *January 2019 – March 2022* | Full-Time
 
-- Supported a team of 8 Service Delivery Managers with a portfolio of 9-12 infrastructure deployment projects.
-- Assisted Project Managers with remediating struggling projects.
-- Closely monitored financial and customer satisfaction metrics of all projects in portfolio.
-- Trained new Delivery Managers and guided existing in corporate PMLC and methodology practices.
+- Led a team of 8 Service Delivery Managers across a portfolio of 9–12 concurrent infrastructure deployment projects.
+- Provided active remediation support to struggling projects, stabilizing delivery and restoring client confidence.
+- Monitored financial and customer satisfaction metrics across all portfolio engagements, driving consistent performance.
+- Trained and mentored new Delivery Managers on corporate PMLC methodology and delivery best practices.
 
 ---
 
 ### Delivery Manager
-**TEKsystems Global Services** | *May 2014 - January 2019* | Full-Time
+**TEKsystems Global Services** | *May 2014 – January 2019* | Full-Time
 
-- Assisted in delivering a $1.3 Million project to install updated credit card devices at 1100 retail locations.
-- Managed project to eliminate Windows XP from the enterprise of a large energy company.
-- Managed $9 Million program to survey and implement security best practices on IoT devices at financial institutions.
-- Assisted other Project Managers with various issues and vacation coverage.
-
----
-
-### Instructor & Divemaster
-**Sam's Skin n Scuba** | *July 2014 - Present* | Contractor
-
-Teach and certify students in recreational scuba diving according to PADI standards.
-
-- Trained and certified in adult learning to present complex theories and keep students engaged.
-- Conduct classes in classroom, pool and open water.
-- Evaluate student skills in water.
-- Provide one-on-one assistance for students.
+- Co-led delivery of a $1.3M program to install updated credit card devices at 1,100 retail locations.
+- Managed enterprise-wide Windows XP remediation project for a large energy company.
+- Directed a $9M IoT security program to survey and implement security best practices across financial institution infrastructure.
+- Provided surge capacity and cross-portfolio support for peer Project Managers.
 
 ---
 
 ### Project Manager
-**Central Technology Consulting Group** | *July 2013 - May 2014* | Consultant/Contractor
+**Central Technology Consulting Group** | *July 2013 – May 2014* | Consultant/Contractor
 
-- Successfully managed project to image and deliver over 150 new laptops to trucking fleet.
-- Gathered and documented requirements for implementation of new IT Service Desk software.
-- Built relationships with several business units, gathering information about their processes and wish lists of projects.
-- Led Project to upgrade terminal automation software at product loading facilities.
+- Managed imaging and delivery of 150+ laptops to a trucking fleet on an accelerated schedule.
+- Gathered and documented requirements for IT Service Desk software implementation.
+- Led upgrade of terminal automation software at product loading facilities.
+- Built cross-functional relationships across business units to identify and prioritize future project pipeline.
 
 ---
 
 ### Data Center Manager
-**Celeritas Technologies** | *April 2007 - July 2013* | Full Time
+**Celeritas Technologies** | *April 2007 – July 2013* | Full-Time
 
-- Administered over 40 Windows (2000/2003), RedHat and CentOS servers.
-- Reconfigured network to improve performance of load balancers, increase security and simplify network.
-- Assisted executive leadership with office relocation including design and construction of new data center.
-- Provided technical sales support on possible infrastructure projects.
-- Consulted with various clients on data center moves and server migrations.
+- Administered 40+ Windows, RedHat, and CentOS servers in a multi-client environment.
+- Redesigned network architecture to improve load balancer performance, tighten security posture, and reduce complexity.
+- Supported executive leadership on office relocation including design and buildout of a new data center.
+- Provided technical pre-sales support for infrastructure projects and consulted clients on data center migrations.
+
+---
+
+### Instructor & Divemaster
+**Sam's Skin n Scuba** | *July 2014 – Present* | Contractor
+
+PADI IDC Staff Instructor (#349017) teaching and certifying students in recreational scuba diving.
+
+- Deliver classroom, pool, and open water instruction using adult learning methodologies.
+- Evaluate and coach student skills in confined and open water environments.
 
 ---
 
 ## Certifications
 
-- **Project Management Professional #1619100** - Project Management Institute
-- **IDC Staff Instructor #349017** - Professional Association of Diving Instructors (PADI)
-- **Certified Scrum Master** - Scrum Alliance
-- **Certified Cloud Practitioner** - Amazon Web Services
-- **Various Technical Certifications** - Microsoft/CompTIA
+- **Project Management Professional #1619100** — Project Management Institute
+- **IDC Staff Instructor #349017** — Professional Association of Diving Instructors (PADI)
+- **Certified Scrum Master** — Scrum Alliance
+- **AWS Certified Cloud Practitioner** — Amazon Web Services
+- **Various Technical Certifications** — Microsoft / CompTIA
 
 ---
 
-## Links & Resources
+## Military Service
 
-### Sites I Love
-- [Project Management Institute](https://www.pmi.org/) - Project Management Standards and Certification
-- [Skin N Scuba](http://www.skinnscuba.com) - Where Kansas City learns to dive
-- [Home Assistant](https://www.home-assistant.io/) - Awaken your home
-- [North6](http://north6.net/) - Business and Technology Consulting
+**United States Marine Corps** | *1988 – 1992*
 
----
-
-*Last Updated: February 2025*
+Honorably served and developed the leadership discipline, operational resilience, and team-first mindset that have anchored a 30+ year career in technical and management roles.
